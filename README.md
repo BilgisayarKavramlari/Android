@@ -1,6 +1,11 @@
 # Android
 Mobil ve Android Programlama
 
+<pre>
+1 Activity ve Intent kavramları
+  1.1 Activityler arası geçiş.
+  1.2 Activityler arası bilgi taşıma
+</pre>
 # Video Ders
 <a href="https://youtu.be/B-NBHxjwUds">Android 10: Activity ve Intent kavramları ve Oyun Kodlaması 1</a>
 
