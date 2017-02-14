@@ -4,10 +4,10 @@ Mobil ve Android Programlama
 <pre>
 1 Activity ve Intent kavramları
   1.1 Activityler arası geçiş.
-  1.2 Activityler arası bilgi taşıma
+  1.2 Activityler arası bilgi taşıma.
 2 GridLayout Kullanımı
-  2.1 Kart sınıfı oluşturma ve butona resim atama
-  2.2 GridLayoutun içine kart sınıfı kullanarak buton oluşturma.
+  2.1 Kart sınıfı oluşturma ve butona resim atama.
+  2.2 GridLayoutun içine, kart sınıfını kullanarak buton oluşturma.
 </pre>
 
 # Video Ders
