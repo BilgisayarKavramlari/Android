@@ -10,11 +10,25 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.cmert.hafizaoyunu.Main2Activity">
 
+    <GridLayout
+        android:id="@+id/kartlar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tvIsim"
+        android:rowCount="4"
+        android:columnCount="4">
+
+    </GridLayout>
+
     <TextView
         android:text="TextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/tvIsim" />
+        android:id="@+id/tvIsim"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
