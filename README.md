@@ -20,6 +20,8 @@ Mobil ve Android Programlama
 
 
 # ScreenShot
-<img src="http://resimyukle.xyz/resim/2JRd" alt="Bilgisayar Kavramları" height="384" width="216">
-<img src="http://hizliresim.com/2nLAEj.png" alt="Bilgisayar Kavramları" height="384" width="216">
+
+<img src="http://www.hizliresimyukle.com/images/2017/02/14/Screenshot_2017-02-14-11-49-56.png" alt="Bilgisayar Kavramları" height="384" width="216">
+<img src="http://www.hizliresimyukle.com/images/2017/02/14/Screenshot_2017-02-14-11-49-51.png" alt="Bilgisayar Kavramları" height="384" width="216">
+
 
