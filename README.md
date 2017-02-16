@@ -10,7 +10,7 @@ Mobil ve Android Programlama
   2.1 R Kaynak kodları
   2.2 Listener ve View Kavramları
 </pre>
-<b>Video Ders
+<b>Video Ders</b>
 <br>
 <img alt="youtube.com" height="16" src="http://3.1m.yt/IlaCgqL.png" width="16">
 <a href="https://youtu.be/9ZntK2uz9i4">Android 1: Mobil Programlama Derse Giriş ve İçerik</a>
@@ -32,7 +32,7 @@ Mobil ve Android Programlama
 2 Etkinlik Yaşam Döngüsü
   2.1 Uygulamaların debug edilmesi.
 </pre>
-<b>Video Ders
+<b>Video Ders</b>
 <br>
 <img alt="youtube.com" height="16" src="http://3.1m.yt/IlaCgqL.png" width="16">
 <a href="https://youtu.be/PyDAZh_J-fw">Android 5: Karakter Oyunu, Butonlar, Aksiyonlar ve Java Sınıfları</a>
@@ -58,6 +58,7 @@ Mobil ve Android Programlama
   2.1 Kart sınıfı oluşturma ve butona resim atama.
   2.2 GridLayoutun içine, kart sınıfını kullanarak buton oluşturma.
 </pre>
+<b>Video Ders</b>
 <br>
 <img alt="youtube.com" height="16" src="http://3.1m.yt/IlaCgqL.png" width="16">
 <a href="https://youtu.be/02t5kbgjqLk">Android 9: Oyun Tasarımı</a>
