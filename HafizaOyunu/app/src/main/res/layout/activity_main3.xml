@@ -8,6 +8,6 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.cmert.hafizaoyunu.Main3Activity">
+    tools:context="com.example.sadievrenseker.myapplication.Main3Activity">
 
 </RelativeLayout>

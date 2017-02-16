@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bilgisayar Kavramları</string>
+    <string name="bilmece_metni">Çarşıdan aldım 1 tane eve geldim 40 tane</string>
+    <string name="bilmece_cevabi">Nar</string>
+    <string name="Saldir">saldir</string>
+    <string name="yemekye">Yemek Ye!</string>
+    <string name="uyu">uyu</string>
+</resources>
