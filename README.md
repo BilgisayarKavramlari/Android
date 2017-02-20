@@ -68,7 +68,18 @@ Mobil ve Android Programlama
 <br>
 <img alt="youtube.com" height="16" src="http://3.1m.yt/IlaCgqL.png" width="16">
 <a href="https://youtu.be/HSO__nVWxCQ">Android 11: Oyun Ekranının Tasarımı ve Kendi Resimli Butonlarımız</a>
-
+<br>
+<img alt="youtube.com" height="16" src="http://3.1m.yt/IlaCgqL.png" width="16">
+<a href="https://youtu.be/lp3Vm76UDIA">Android 12: Buton Dizisi Oluşturma ve Karıştırma</a>
+<br>
+<img alt="youtube.com" height="16" src="http://3.1m.yt/IlaCgqL.png" width="16">
+<a href="https://youtu.be/KbmCKeKC4Kc">Android 13: Zamanlama ve Skorlar</a>
+<br>
+<br>
+<b>Screenshot</b>
+<br>
+<img src="http://4.1m.yt/H0j5T2C.png" alt="Smiley face" height="384" width="216">
+<img src="http://4.1m.yt/1AcI-kT.png" alt="Smiley face" height="384" width="216">
 
 
 
